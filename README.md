@@ -25,3 +25,12 @@
   <img alt="Glitch" src="https://img.shields.io/badge/Glitch-f14deb?style=flat&logo=glitch&logoColor=white"/> 
   <img alt="" src="https://img.shields.io/badge/-GSAP-green" />
   
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergienkoanna777)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact or follow me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/sergienkoanna777) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](www.linkedin.com/in/anna-sergienko-happy)  
+
+
