@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Anna</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Full-stack developer from Montreal, CA</h3>
+<h3>Web developer from Montreal, CA</h3>
 
 - 🔭 I’m currently helping businesses reach potential clients by creating beautiful and functional web sites for them.
 - 🌱 I’m currently widening my professional field by further deepening my React and Node.js knowledge.
